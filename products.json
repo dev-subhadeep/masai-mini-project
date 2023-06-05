@@ -15,5 +15,14 @@
         "price": 15499,
         "discount": 50,
         "img": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=780,height=780,quality=75,format=auto/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/BB189543.jpg"
+    },
+
+    {
+        "name": "Asics Gel-Rocket 10 Mens Indoor Court Shoes (Black/Carrier Grey)",
+        "category": "badminton",
+        "sub-category": "shoes",
+        "price": 5999,
+        "discount": 10,
+        "img": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=500,height=500,quality=75,format=auto,fit=cover,g=top/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/AS1071A054013.jpg"
     }
 ]
