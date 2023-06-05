@@ -1,0 +1,19 @@
+[
+    {
+        "name": "BABOLAT SATELITE ORIGIN POWER BADMINTON RACKET (BLUE/WHITE, UNSTRUNG)",
+        "category": "badminton",
+        "sub-category": "racket",
+        "price": 11999,
+        "discount": 50,
+        "img": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=780,height=780,quality=75,format=auto/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/BB191362.jpg"
+    },
+
+    {
+        "name": "BABOLAT XFEEL ESSENTIAL BADMINTON RACKET (BLUE/GREY, UNSTRUNG)",
+        "category": "badminton",
+        "sub-category": "racket",
+        "price": 15499,
+        "discount": 50,
+        "img": "https://storage.sg.content-cdn.io/cdn-cgi/image/width=780,height=780,quality=75,format=auto/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/ProductImages/Source/BB189543.jpg"
+    }
+]
