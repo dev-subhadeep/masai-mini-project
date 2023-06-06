@@ -11,11 +11,21 @@ body {
     line-height: 1.5;
 }
 
-
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
 
 img {
     max-width: 100%;
 }
+
+section {
+    margin: 0 auto;
+    width: fit-content;
+}
+
+
 h1,h2,h3 {
     text-transform: uppercase;
 }
@@ -106,7 +116,8 @@ nav > ul > li:hover > a {
 #categories {
     display: flex;
     padding: 20px;
-    /* justify-content: space-between; */
+    justify-content: space-between;
+    gap: 20px;
 }
 
 #categories > div {
