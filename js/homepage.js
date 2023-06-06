@@ -22,7 +22,7 @@ document.querySelector("#service-menu-item-2").addEventListener('mouseover',()=>
 
 document.querySelector("#service-menu-item-3").addEventListener('mouseover',()=>{
     sHeading.innerText = "TT Bat Assembly";
-    sImg.src = "https://storage.sg.content-cdn.io/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/userimages/bslide2.jpg";
+    sImg.src = "https://storage.sg.content-cdn.io/in-resources/b368029c-a4dd-448a-a888-58348cb1b144/Images/userimages/bslide5.jpg";
     sDesc.innerHTML = `Choose a ready-to-play Table Tennis bat from the best manufacturers or build your very own customized bat!
 
     We provide you a wide range of Rubbers and Blades from the best brands. Now you can make your desired combination across brands and according to your playing style. To avail this service at Sportsjam.in, add a blade, 2 rubbers (black and red) and the TT bat assembly service in your order.`
